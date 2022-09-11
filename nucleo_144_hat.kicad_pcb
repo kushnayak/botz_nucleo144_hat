@@ -1118,7 +1118,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/Users/kush/Downloads/5023860270.stp"
+    (model "${KIPRJMOD}/3d_models/5023860270.stp"
       (offset (xyz 0 0 2.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 -180))
